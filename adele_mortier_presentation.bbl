@@ -1,0 +1,443 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{bergen2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c0e0db7acc4b50f232fc4beb8b49a41e}{%
+           family={Bergen},
+           familyi={B\bibinitperiod},
+           given={Leon},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2e20881923b91d44e8f1ba7e0f38f42c}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=d98a11597b0645b5e5c970ce0a562a96}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Linguistic Society of America}%
+      }
+      \strng{namehash}{bd2453a88edf7d5008debf9b5f71c041}
+      \strng{fullhash}{bd2453a88edf7d5008debf9b5f71c041}
+      \strng{bibnamehash}{bd2453a88edf7d5008debf9b5f71c041}
+      \strng{authorbibnamehash}{bd2453a88edf7d5008debf9b5f71c041}
+      \strng{authornamehash}{bd2453a88edf7d5008debf9b5f71c041}
+      \strng{authorfullhash}{bd2453a88edf7d5008debf9b5f71c041}
+      \field{labelalpha}{BLG16}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semantics and Pragmatics}
+      \field{month}{5}
+      \field{title}{Pragmatic reasoning through semantic inference}
+      \field{volume}{9}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.3765/sp.9.20
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3765/sp.9.20
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3765/sp.9.20
+      \endverb
+    \endentry
+    \entry{cummins2012}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7804f5ee53ee7835a0e40e798d87b1bb}{%
+           family={Cummins},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce0324512aa63e86ee41e7d50119f292}{%
+           family={Sauerland},
+           familyi={S\bibinitperiod},
+           given={Uli},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1b260e872ff199521e6b83ec84fcd6a5}{%
+           family={Solt},
+           familyi={S\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{fd426f207dd72c57227711e8b531cb97}
+      \strng{fullhash}{fd426f207dd72c57227711e8b531cb97}
+      \strng{bibnamehash}{fd426f207dd72c57227711e8b531cb97}
+      \strng{authorbibnamehash}{fd426f207dd72c57227711e8b531cb97}
+      \strng{authornamehash}{fd426f207dd72c57227711e8b531cb97}
+      \strng{authorfullhash}{fd426f207dd72c57227711e8b531cb97}
+      \field{labelalpha}{CSS12}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics and Philosophy}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Granularity and scalar implicature in numerical expressions}
+      \field{volume}{35}
+      \field{year}{2012}
+      \field{pages}{135\bibrangedash 169}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/s10988-012-9114-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10988-012-9114-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10988-012-9114-0
+      \endverb
+    \endentry
+    \entry{dehaene2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14ff7c970ba747f58e07de2e42e7c5bb}{%
+           family={Dehaene},
+           familyi={D\bibinitperiod},
+           given={Stanislas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \strng{fullhash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \strng{bibnamehash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \strng{authorbibnamehash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \strng{authornamehash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \strng{authorfullhash}{14ff7c970ba747f58e07de2e42e7c5bb}
+      \field{labelalpha}{Deh03}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{The neural basis of the Weber{–}Fechner law: a logarithmic mental number line}
+      \field{volume}{7}
+      \field{year}{2003}
+      \field{pages}{145\bibrangedash 147}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/s1364-6613(03)00055-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/s1364-6613(03)00055-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/s1364-6613(03)00055-x
+      \endverb
+    \endentry
+    \entry{egre2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=645afe3995b56ffbcd00a2370fa9ffd5}{%
+           family={Égré},
+           familyi={É\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Groningen, Department of Theoretical Philosophy}%
+      }
+      \strng{namehash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \strng{fullhash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \strng{bibnamehash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \strng{authorbibnamehash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \strng{authornamehash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \strng{authorfullhash}{f845f60acd4009fedb80ea5043fdc4b2}
+      \field{labelalpha}{ÉV18}
+      \field{sortinit}{É}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{avril}
+      \field{note}{Presentation}
+      \field{title}{Vagueness, approximation and the Maxim of Quality}
+      \field{year}{2018}
+    \endentry
+    \entry{fox2007}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=07e13302540da458a575f00c26a09f7a}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Danny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07e13302540da458a575f00c26a09f7a}
+      \strng{fullhash}{07e13302540da458a575f00c26a09f7a}
+      \strng{bibnamehash}{07e13302540da458a575f00c26a09f7a}
+      \strng{authorbibnamehash}{07e13302540da458a575f00c26a09f7a}
+      \strng{authornamehash}{07e13302540da458a575f00c26a09f7a}
+      \strng{authorfullhash}{07e13302540da458a575f00c26a09f7a}
+      \field{labelalpha}{Fox07}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-349-28206-7}
+      \field{month}{01}
+      \field{title}{Free Choice and the Theory of Scalar Implicatures}
+      \field{year}{2007}
+      \field{pages}{71\bibrangedash 120}
+      \range{pages}{50}
+      \verb{doi}
+      \verb 10.1057/9780230210752\_4
+      \endverb
+    \endentry
+    \entry{grice1975logic}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d83019cac2894b95e79955cc82817cb3}{%
+           family={Grice},
+           familyi={G\bibinitperiod},
+           given={H.\bibnamedelimi P.},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d59bef1c480e103dec86b71e47802b1b}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e3970cc0bf54138265e89eb01882dd1f}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{fullhash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{bibnamehash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{authorbibnamehash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{authornamehash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{authorfullhash}{d83019cac2894b95e79955cc82817cb3}
+      \strng{editorbibnamehash}{e5b55e48f92dd0148c6a6f021020007d}
+      \strng{editornamehash}{e5b55e48f92dd0148c6a6f021020007d}
+      \strng{editorfullhash}{e5b55e48f92dd0148c6a6f021020007d}
+      \field{labelalpha}{Gri75}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Syntax and Semantics: Vol. 3: Speech Acts}
+      \field{title}{Logic and Conversation}
+      \field{year}{1975}
+      \field{pages}{41\bibrangedash 58}
+      \range{pages}{18}
+      \verb{file}
+      \verb grice1975logic.pdf:grice1975logic.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf
+      \endverb
+      \keyw{conversation dialogue implicature logic maxims theory}
+    \endentry
+    \entry{lassiter2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f2107cb1d12ccc8e4e5e2c8bba6f24aa}{%
+           family={Lassiter},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=c0998e01e6f088474c901e94b7a2d92d}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Noah\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Linguistic Society of America}%
+      }
+      \strng{namehash}{e731bf12d944bf90e456e7fe5edeed11}
+      \strng{fullhash}{e731bf12d944bf90e456e7fe5edeed11}
+      \strng{bibnamehash}{e731bf12d944bf90e456e7fe5edeed11}
+      \strng{authorbibnamehash}{e731bf12d944bf90e456e7fe5edeed11}
+      \strng{authornamehash}{e731bf12d944bf90e456e7fe5edeed11}
+      \strng{authorfullhash}{e731bf12d944bf90e456e7fe5edeed11}
+      \field{labelalpha}{LG13}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semantics and Linguistic Theory}
+      \field{month}{8}
+      \field{title}{Context, scale structure, and statistics in the interpretation of positive-form adjectives}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{587}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3765/salt.v23i0.2658
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3765/salt.v23i0.2658
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3765/salt.v23i0.2658
+      \endverb
+    \endentry
+    \entry{sauerland2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ce0324512aa63e86ee41e7d50119f292}{%
+           family={Sauerland},
+           familyi={S\bibinitperiod},
+           given={Uli},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{ce0324512aa63e86ee41e7d50119f292}
+      \strng{fullhash}{ce0324512aa63e86ee41e7d50119f292}
+      \strng{bibnamehash}{ce0324512aa63e86ee41e7d50119f292}
+      \strng{authorbibnamehash}{ce0324512aa63e86ee41e7d50119f292}
+      \strng{authornamehash}{ce0324512aa63e86ee41e7d50119f292}
+      \strng{authorfullhash}{ce0324512aa63e86ee41e7d50119f292}
+      \field{labelalpha}{Sau04}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics and Philosophy}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Scalar Implicatures in Complex Sentences}
+      \field{volume}{27}
+      \field{year}{2004}
+      \field{pages}{367\bibrangedash 391}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1023/b:ling.0000023378.71748.db
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1023/b:ling.0000023378.71748.db
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1023/b:ling.0000023378.71748.db
+      \endverb
+    \endentry
+    \entry{solt2017}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1b260e872ff199521e6b83ec84fcd6a5}{%
+           family={Solt},
+           familyi={S\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \strng{fullhash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \strng{bibnamehash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \strng{authorbibnamehash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \strng{authornamehash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \strng{authorfullhash}{1b260e872ff199521e6b83ec84fcd6a5}
+      \field{labelalpha}{Sol17}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{48th Annual Meeting of the North East Linguistic Society (NELS 48)}
+      \field{title}{Approximators as a case study of attenuating polarity items}
+      \field{year}{2017}
+    \endentry
+    \entry{spectortoappear}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b6e93da760aa0f33eddf455adecfac53}{%
+           family={Spector},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6e93da760aa0f33eddf455adecfac53}
+      \strng{fullhash}{b6e93da760aa0f33eddf455adecfac53}
+      \strng{bibnamehash}{b6e93da760aa0f33eddf455adecfac53}
+      \strng{authorbibnamehash}{b6e93da760aa0f33eddf455adecfac53}
+      \strng{authornamehash}{b6e93da760aa0f33eddf455adecfac53}
+      \strng{authorfullhash}{b6e93da760aa0f33eddf455adecfac53}
+      \field{labelalpha}{Spe}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{to appear in the Wiley Companion to Semantics (eds. Matthewson, Meier, Rullmann, Zimmermann)}
+      \field{title}{Modified Numerals}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
