@@ -1,22 +1,28 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [1] Config.pm:305> INFO - Logfile is 'adele_mortier_presentation.blg'
-[47] biber:313> INFO - === ven. févr.  1, 2019, 10:10:59
-[77] Biber.pm:371> INFO - Reading 'adele_mortier_presentation.bcf'
-[183] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[205] Biber.pm:3981> INFO - Processing section 0
-[220] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[222] bibtex.pm:1468> INFO - LaTeX decoding ...
-[245] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliography.bib'
-[248] Utils.pm:169> WARN - month field 'jun' in entry 'sauerland2004' is not an integer - this will probably not sort properly.
-[281] Utils.pm:169> WARN - month field 'apr' in entry 'cummins2012' is not an integer - this will probably not sort properly.
-[314] Utils.pm:169> WARN - month field 'apr' in entry 'dehaene2003' is not an integer - this will probably not sort properly.
-[328] Utils.pm:169> WARN - month field 'avril' in entry 'egre2018' is not an integer - this will probably not sort properly.
-[329] Utils.pm:169> WARN - month field 'may' in entry 'bergen2016' is not an integer - this will probably not sort properly.
-[339] Utils.pm:169> WARN - month field 'aug' in entry 'lassiter2013' is not an integer - this will probably not sort properly.
-[388] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[388] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[388] Biber.pm:3809> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
-[388] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
-[418] bbl.pm:617> INFO - Writing 'adele_mortier_presentation.bbl' with encoding 'UTF-8'
-[427] bbl.pm:720> INFO - Output to adele_mortier_presentation.bbl
-[427] Biber.pm:110> INFO - WARNINGS: 6
+[75] biber:313> INFO - === mar. juin 25, 2019, 11:13:15
+[130] Biber.pm:371> INFO - Reading 'adele_mortier_presentation.bcf'
+[292] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[318] Biber.pm:3981> INFO - Processing section 0
+[336] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[338] bibtex.pm:1468> INFO - LaTeX decoding ...
+[412] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliography.bib'
+[474] Utils.pm:169> WARN - month field 'apr' in entry 'Egre2014' is not an integer - this will probably not sort properly.
+[490] Utils.pm:169> WARN - month field 'dec' in entry 'Williamson1997' is not an integer - this will probably not sort properly.
+[540] Utils.pm:169> WARN - month field 'may' in entry 'Bergen2016' is not an integer - this will probably not sort properly.
+[587] Utils.pm:169> WARN - month field 'aug' in entry 'Lassiter2013' is not an integer - this will probably not sort properly.
+[602] Utils.pm:169> WARN - month field 'jan' in entry 'Goodman2013' is not an integer - this will probably not sort properly.
+[616] Utils.pm:169> WARN - month field 'may' in entry 'Verheyen2018' is not an integer - this will probably not sort properly.
+[634] Utils.pm:169> WARN - month field 'may' in entry 'Egre2016' is not an integer - this will probably not sort properly.
+[689] Utils.pm:169> WARN - month field 'avril' in entry 'Egre2018pres' is not an integer - this will probably not sort properly.
+[691] Utils.pm:169> WARN - month field 'apr' in entry 'Cummins2012' is not an integer - this will probably not sort properly.
+[703] Utils.pm:169> WARN - month field 'apr' in entry 'Qing2015' is not an integer - this will probably not sort properly.
+[753] Utils.pm:169> WARN - month field 'jun' in entry 'Sauerland2004' is not an integer - this will probably not sort properly.
+[761] Utils.pm:169> WARN - month field 'apr' in entry 'Dehaene2003' is not an integer - this will probably not sort properly.
+[875] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[875] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[875] Biber.pm:3809> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[876] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[933] bbl.pm:617> INFO - Writing 'adele_mortier_presentation.bbl' with encoding 'UTF-8'
+[962] bbl.pm:720> INFO - Output to adele_mortier_presentation.bbl
+[963] Biber.pm:110> INFO - WARNINGS: 12
